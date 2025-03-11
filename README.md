@@ -13,7 +13,7 @@ The O-1A Visa Assessor is a FastAPI-based application designed to evaluate CVs (
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/atiitm/O1A-accessor.git
+   git clone https://github.com/atiitm/O-1A-Visa-Assessor.git
    cd O1A-accessor
    ```
 
