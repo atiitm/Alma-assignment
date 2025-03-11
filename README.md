@@ -13,8 +13,8 @@ The O-1A Visa Assessor is a FastAPI-based application designed to evaluate CVs (
 
 1. **Clone the Repository:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
-   cd <YOUR_REPO_DIRECTORY>
+   git clone https://github.com/atiitm/Alma-assignment.git
+   cd Alma-assignment
    ```
 
 2. **Create and Activate a Virtual Environment:**
@@ -42,13 +42,6 @@ uvicorn main:app --reload
 By default, the application will be accessible at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ## API Endpoints
-
-- **GET /**  
-  Returns a welcome message with usage instructions.
-
-- **POST /assess**  
-  Accepts a PDF file upload. Returns a JSON object with criteria matches and an overall rating.  
-  **Note:** Only PDF files are accepted.
 
 ## Using Swagger UI for POST Requests
 You can use Swagger UI to interact with the API without writing any code:
