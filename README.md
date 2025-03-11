@@ -144,6 +144,15 @@ Skills:
 }
 ```
 
+## Evaluation
+
+1. Test with known qualified candidates' CVs
+2. Verify keyword matches are context-appropriate
+3. Check score thresholds:
+   - High: 6-8 criteria
+   - Medium: 3-5 criteria
+   - Low: 0-2 criteria
+
 ## Design Choices
 
 - **FastAPI:** Chosen for its speed and ease of use when building RESTful APIs.
